@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dq0.nl/images/dsc_1958.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dq0.nl/images/logo.svg</image:loc>
     </image:image>
   </url>
@@ -17,9 +14,6 @@
     <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dq0.nl/images/dsc_1958.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://dq0.nl/images/logo.svg</image:loc>
     </image:image>
@@ -30,9 +24,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://dq0.nl/images/dsc_1958.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dq0.nl/images/logo.svg</image:loc>
     </image:image>
   </url>
@@ -41,9 +32,6 @@
     <lastmod>2017-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://dq0.nl/images/dsc_1958.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://dq0.nl/images/logo.svg</image:loc>
     </image:image>
