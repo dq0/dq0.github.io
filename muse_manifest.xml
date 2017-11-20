@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511207246592">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511207955507">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4222682150" ref="applications:technology:index:contact"/>
-    <file name="applications.css" crc="3822026397" ref="applications"/>
-    <file name="technology.css" crc="3822026397" ref="technology"/>
-    <file name="index.css" crc="3822026397" ref="index"/>
-    <file name="contact.css" crc="4229229551" ref="contact"/>
+    <file name="applications.css" crc="463976696" ref="applications"/>
+    <file name="technology.css" crc="463976696" ref="technology"/>
+    <file name="index.css" crc="463976696" ref="index"/>
+    <file name="contact.css" crc="463976696" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:technology:applications"/>
@@ -16,7 +16,6 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:contact:technology:applications"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:technology:applications"/>
     <file name="require.js" crc="4157109226" ref="index:contact:technology:applications"/>
-    <file name="webpro.js" crc="242022427" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="dsc_1958.jpg" crc="3951256562" seo="true" ref="index:contact:technology:applications">
@@ -31,11 +30,10 @@
       <caption webpage="applications" alt=""/>
       <caption webpage="technology" alt=""/>
     </file>
-    <file name="logo_poster_.png" crc="4117574603" ref="index"/>
-    <file name="captcha.png" crc="362548909" ref="contact"/>
+    <file name="logo_poster_.png" crc="3923121744" ref="index"/>
   </folder>
-  <file name="index.html" crc="4265105115" seo="true" mt="1511207227596" redirect="true"/>
-  <file name="contact.html" crc="4263627606" seo="true" mt="1511207227596" redirect="true"/>
-  <file name="technology.html" crc="454069468" seo="true" mt="1511207227596" redirect="true"/>
-  <file name="applications.html" crc="416092858" seo="true" mt="1511207227596" redirect="true"/>
+  <file name="index.html" crc="250593523" seo="true" mt="1511207942508" redirect="true"/>
+  <file name="contact.html" crc="505537828" seo="true" mt="1511207942508" redirect="true"/>
+  <file name="technology.html" crc="458209323" seo="true" mt="1511207942508" redirect="true"/>
+  <file name="applications.html" crc="3987837164" seo="true" mt="1511207942508" redirect="true"/>
 </manifest>
