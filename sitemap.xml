@@ -36,10 +36,4 @@
       <image:loc>http://dq0.nl/images/asset%201.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://dq0.nl/assets/asset-8.pdf</loc>
-    <lastmod>2017-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

@@ -1,14 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511460899312">
-  <folder name="assets">
-    <file name="asset-8.pdf" crc="4139403413" seo="true" mt="1511460595000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511462176772">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="495291505" ref="applications:technology:index:contact"/>
-    <file name="applications.css" crc="120994372" ref="applications"/>
-    <file name="technology.css" crc="120994372" ref="technology"/>
-    <file name="index.css" crc="120994372" ref="index"/>
+    <file name="master_a-master.css" crc="495291505" ref="contact:technology:applications:index"/>
     <file name="contact.css" crc="120994372" ref="contact"/>
+    <file name="technology.css" crc="120994372" ref="technology"/>
+    <file name="applications.css" crc="120994372" ref="applications"/>
+    <file name="index.css" crc="120994372" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:technology:applications"/>
@@ -16,27 +13,27 @@
     <file name="whatinput.js" crc="86476730" ref="index:contact:technology:applications"/>
     <file name="museconfig.js" crc="4153641093" ref="index:contact:technology:applications"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact:technology:applications"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contact:technology:applications"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:contact:technology:applications"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:technology:applications"/>
     <file name="require.js" crc="4157109226" ref="index:contact:technology:applications"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contact:technology:applications"/>
   </folder>
   <folder name="images">
-    <file name="dsc_1956.jpg" crc="231237341" ref="index:contact:technology:applications">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="technology" alt=""/>
-      <caption webpage="applications" alt=""/>
-    </file>
     <file name="asset 1.png" crc="287289796" seo="true" ref="index:contact:technology:applications">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="technology" alt=""/>
       <caption webpage="applications" alt=""/>
     </file>
+    <file name="dsc_1956.jpg" crc="231237341" ref="index:contact:technology:applications">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="technology" alt=""/>
+      <caption webpage="applications" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3940470876" seo="true" mt="1511460877110" redirect="true"/>
-  <file name="contact.html" crc="3783363078" seo="true" mt="1511460877110" redirect="true"/>
-  <file name="technology.html" crc="3954600572" seo="true" mt="1511460877110" redirect="true"/>
-  <file name="applications.html" crc="534429961" seo="true" mt="1511460877110" redirect="true"/>
+  <file name="index.html" crc="3940470876" seo="true" mt="1511462169815" redirect="true"/>
+  <file name="contact.html" crc="3783363078" seo="true" mt="1511462169815" redirect="true"/>
+  <file name="technology.html" crc="3954600572" seo="true" mt="1511462169815" redirect="true"/>
+  <file name="applications.html" crc="534429961" seo="true" mt="1511462169815" redirect="true"/>
 </manifest>
