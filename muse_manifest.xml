@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511463453897">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511463739145">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="495291505" ref="contact:technology:applications:index"/>
-    <file name="contact.css" crc="120994372" ref="contact"/>
-    <file name="technology.css" crc="120994372" ref="technology"/>
-    <file name="applications.css" crc="120994372" ref="applications"/>
-    <file name="index.css" crc="120994372" ref="index"/>
+    <file name="master_a-master.css" crc="390113917" ref="contact:technology:applications:index"/>
+    <file name="contact.css" crc="4086870723" ref="contact"/>
+    <file name="technology.css" crc="4086870723" ref="technology"/>
+    <file name="applications.css" crc="4086870723" ref="applications"/>
+    <file name="index.css" crc="4086870723" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:technology:applications"/>
@@ -32,8 +32,8 @@
       <caption webpage="applications" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3940470876" seo="true" mt="1511462169815" redirect="true"/>
-  <file name="contact.html" crc="3783363078" seo="true" mt="1511462169815" redirect="true"/>
-  <file name="technology.html" crc="3954600572" seo="true" mt="1511462169815" redirect="true"/>
-  <file name="applications.html" crc="534429961" seo="true" mt="1511462169815" redirect="true"/>
+  <file name="index.html" crc="4063663798" seo="true" mt="1511463723234" redirect="true"/>
+  <file name="contact.html" crc="403258513" seo="true" mt="1511463723234" redirect="true"/>
+  <file name="technology.html" crc="4158332361" seo="true" mt="1511463723234" redirect="true"/>
+  <file name="applications.html" crc="100203712" seo="true" mt="1511463723234" redirect="true"/>
 </manifest>
