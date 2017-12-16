@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1513421617813">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1513437435756">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_beach-master.css" crc="390113917" ref="index:applications"/>
     <file name="master_valley-master.css" crc="42255007" ref="technology"/>
     <file name="master_snow-master.css" crc="155400466" ref="contact"/>
     <file name="technology.css" crc="4172375405" ref="technology"/>
-    <file name="index.css" crc="120994372" ref="index"/>
-    <file name="applications.css" crc="120994372" ref="applications"/>
+    <file name="index.css" crc="4007118796" ref="index"/>
+    <file name="applications.css" crc="4007118796" ref="applications"/>
     <file name="contact.css" crc="239484681" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -28,7 +28,7 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="applications" alt=""/>
     </file>
-    <file name="dsc_1956.jpg" crc="231237341" ref="index:applications">
+    <file name="dsc_1956.jpg" crc="3830741774" ref="index:applications">
       <caption webpage="index" alt=""/>
       <caption webpage="applications" alt=""/>
     </file>
@@ -39,8 +39,8 @@
       <caption webpage="technology" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="316884605" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="index.html" crc="337043846" seo="true" mt="1513437425746" redirect="true"/>
   <file name="contact.html" crc="3971496213" seo="true" mt="1513421197747" redirect="true"/>
   <file name="technology.html" crc="3938332629" seo="true" mt="1513421607963" redirect="true"/>
-  <file name="applications.html" crc="107560112" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="applications.html" crc="4186351569" seo="true" mt="1513437425746" redirect="true"/>
 </manifest>
