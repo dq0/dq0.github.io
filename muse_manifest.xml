@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1513420566299">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1513421211382">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="contact.css" crc="266943521" ref="contact"/>
+    <file name="contact.css" crc="239484681" ref="contact"/>
     <file name="technology.css" crc="120994372" ref="technology"/>
     <file name="applications.css" crc="120994372" ref="applications"/>
     <file name="index.css" crc="120994372" ref="index"/>
@@ -32,13 +32,13 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="applications" alt=""/>
     </file>
-    <file name="dsc_2450.jpg" crc="93522728" ref="contact">
+    <file name="favicon.ico" crc="193300473" ref="index:contact"/>
+    <file name="dsc_2467.jpg" crc="4039523438" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="favicon.ico" crc="193300473" ref="index"/>
   </folder>
   <file name="index.html" crc="316884605" seo="true" mt="1513420556487" redirect="true"/>
-  <file name="contact.html" crc="3872742180" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="contact.html" crc="3971496213" seo="true" mt="1513421197747" redirect="true"/>
   <file name="technology.html" crc="232417003" seo="true" mt="1513420556487" redirect="true"/>
   <file name="applications.html" crc="107560112" seo="true" mt="1513420556487" redirect="true"/>
 </manifest>
