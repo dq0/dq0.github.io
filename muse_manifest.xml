@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1511464980269">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dq0.nl" resolutions="1x" timestamp="1513420566299">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="390113917" ref="contact:technology:applications:index"/>
-    <file name="contact.css" crc="120994372" ref="contact"/>
+    <file name="contact.css" crc="266943521" ref="contact"/>
     <file name="technology.css" crc="120994372" ref="technology"/>
     <file name="applications.css" crc="120994372" ref="applications"/>
     <file name="index.css" crc="120994372" ref="index"/>
+    <file name="master_beach-master.css" crc="390113917" ref="technology:index:applications"/>
+    <file name="master_snow-master.css" crc="155400466" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:technology:applications"/>
@@ -21,19 +22,23 @@
   <folder name="images">
     <file name="asset 1.png" crc="287289796" seo="true" ref="index:contact:technology:applications">
       <caption webpage="index" alt=""/>
+      <caption webpage="technology" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="applications" alt=""/>
-      <caption webpage="technology" alt=""/>
     </file>
-    <file name="dsc_1956.jpg" crc="231237341" ref="index:contact:technology:applications">
+    <file name="dsc_1956.jpg" crc="231237341" ref="index:technology:applications">
       <caption webpage="index" alt=""/>
+      <caption webpage="technology" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="applications" alt=""/>
-      <caption webpage="technology" alt=""/>
     </file>
+    <file name="dsc_2450.jpg" crc="93522728" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="193300473" ref="index"/>
   </folder>
-  <file name="index.html" crc="359638990" seo="true" mt="1511464328034" redirect="true"/>
-  <file name="contact.html" crc="4185160112" seo="true" mt="1511464961886" redirect="true"/>
-  <file name="technology.html" crc="4004476971" seo="true" mt="1511464328034" redirect="true"/>
-  <file name="applications.html" crc="3766714059" seo="true" mt="1511464328034" redirect="true"/>
+  <file name="index.html" crc="316884605" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="contact.html" crc="3872742180" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="technology.html" crc="232417003" seo="true" mt="1513420556487" redirect="true"/>
+  <file name="applications.html" crc="107560112" seo="true" mt="1513420556487" redirect="true"/>
 </manifest>
