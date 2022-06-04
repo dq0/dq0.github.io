@@ -29,10 +29,10 @@ body {
 }
 
 h1 {
-  margin: 0;
+  margin: 10px;
   padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
+  color: #708090;
+  text-shadow: 2px 2px 1px black;
 }
 
 img {
