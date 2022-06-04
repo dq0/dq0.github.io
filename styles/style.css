@@ -23,13 +23,13 @@ html {
 body {
   width: 1024px;
   margin: 0 auto;
-  background-color: #708090;
+  background-color: #F5F5F5;
   padding: 0 20px 20px 20px;
-  border: 1px solid black;
+  border: 0px solid black;
 }
 
 h1 {
-  margin: 10px;
+  margin: 80px;
   padding: 20px 0;
   color: #708090;
   text-shadow: 2px 2px 1px black;
